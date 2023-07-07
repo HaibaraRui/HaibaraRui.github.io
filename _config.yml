@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Juan Li（李娟）"
-  avatar           : "picture.png"
+  avatar           : "picture.jpg"
   bio              : "副教授，研究生导师"
   location         : "计算机科学与技术学院/人工智能学院/软件学院，南京航空航天大学"
-  location         : "计算机学院楼410"
+  # location         : "计算机学院楼410"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
