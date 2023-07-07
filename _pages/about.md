@@ -7,6 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
+**欢迎报考！！！**
+
+欢迎校内外本科生（尤其推免生）报考我的研究生（计算机科学与技术【学硕】、电子信息【专硕】），提供国内外学术交流机会，表现优异者，可推荐到香港科技大学、上海交通大学、浙江大学、东南大学、中南大学、吉林大学、电子科大等知名高校攻读博士学位。 研究生期间可参与导师主持的国家级项目，提供细致的论文指导。研究方向包括：联邦学习、无人集群博弈、强化学习等。感兴趣的同学，可发送相关信息和简历至我的邮箱juanli@nuaa.edu.cn。
+
+**个人简介：**
+
+李娟，博士毕业于上海交通大学计算机科学与技术专业，导师朱燕民教授（被引次数：7977，h指数：45，i10指数：158）。2017年赴美国天普访问一年，师从IEEE Fellow吴杰教授（被引次数：45404，h指数：106，i10指数：654）。2020年获得上海交通大学优博奖及ACM SIGBED China优博奖，同年加入淘宝猜你喜欢推荐算法团队，担任高级算法工程师。2021年加入南航计算机学院，现主持国家自然科学青年基金，江苏省自然科学青年基金，国家博士后特别资助基金、曙光校企合作项目以及南航人才启动经费专项等，并获得江苏省"双创博士"人才称号以及相应人才项目。发表高水平科研论文20余篇，均为SCI或EI推荐论文，其中CCF A、B类论文以及SCI一区论文10余篇，一作论文9篇。
+
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
